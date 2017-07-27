@@ -1,0 +1,19 @@
+{
+  "name": "angular-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"lite-server"
+  },
+  "keywords": [],
+  "author": "MD M Rahman <mujib517@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
